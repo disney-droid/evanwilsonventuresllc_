@@ -1,0 +1,6 @@
+{
+  "name": "Evan Wilson Ventures LLC",
+  "description": "A pristine, high-end, elegant dark theme Time Tracking and Employee Management System featuring automated weekly payroll computation, biometric-grade work and break logger, leaf requests processing, interactive calendar, and beautiful live printable PDF invoices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
